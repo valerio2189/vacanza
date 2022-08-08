@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  background-color: #95E1D3;
+}
+
+h1 {
+  color: #F38181;
+}
+
+div{
+  margin: auto;
+}
+
+.day{
+  border: solid;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+
+.img{
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
